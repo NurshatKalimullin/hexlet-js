@@ -15,7 +15,10 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/NurshatKalimullin/hexlet-js/issues",
-    "email" : "nurshatkalimullin@mail.ru"
+    "email": "nurshatkalimullin@mail.ru"
   },
-  "homepage": "https://github.com/NurshatKalimullin/hexlet-js#readme"
+  "homepage": "https://github.com/NurshatKalimullin/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
