@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/NurshatKalimullin/hexlet-js#readme",
   "dependencies": {
-    "lodash": "^4.17.20"
+    "lodash": "^4.17.20",
+    "pretier": "0.0.1",
+    "prettier": "^2.2.1"
   }
 }
